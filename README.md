@@ -16,6 +16,7 @@ The project is centered on practical game mechanics and includes detailed inform
 All data is manually verified and kept up to date.
 
 **WikiRust official website:**
+
 https://wikirust.com
 
 ## Project status
