@@ -17,7 +17,7 @@ All data is manually verified and kept up to date.
 
 **WikiRust official website:**
 
-https://wikirust.com
+https://wikirust.com/
 
 ## Project status
 Actively maintained and expanding content.  
