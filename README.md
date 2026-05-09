@@ -1,12 +1,27 @@
 # WikiRust
 
+<br>
+
+## SEO Case Study
+
+Detailed SEO case study explaining:
+- SEO architecture
+- UX decisions
+- content strategy
+- growth timeline
+- rankings and organic visibility
+
+[Read the full case study](./CASE_STUDY.md)
+
+---
+
 <p align="center">
-  <img src="WikiRustG.png" alt="WikiRust" width="200">
+  <img src="./images/WikiRustG.png" alt="WikiRust" width="200">
 </p>
 
-WikiRust is an independent wiki project focused on providing accurate and structured data about the video game Rust.
+WikiRust is an independent web project focused on structured raid and explosive damage information for the video game Rust.
 
-The project is centered on practical game mechanics and includes detailed information such as:
+The project focuses on quick-reference raid information and structure destruction data:
 
 - Raid explosive damage tables
 - Door types and durability
@@ -35,7 +50,7 @@ WikiRust focuses on clear and practical information for players who want quick a
 ## Preview
 
 <div align="center">
-  <img src="WikiRust.jpg" alt="WikiRust preview">
+  <img src="./images/WikiRust.jpg" alt="WikiRust preview">
 </div>
 
 
