@@ -1,5 +1,4 @@
 # WikiRust
-
 <br>
 
 ## SEO Case Study
@@ -14,10 +13,11 @@ Detailed SEO case study explaining:
 [Read the full case study](./CASE_STUDY.md)
 
 ---
-
+<br>
 <p align="center">
   <img src="./images/WikiRustG.png" alt="WikiRust" width="200">
 </p>
+<br>
 
 WikiRust is an independent web project focused on structured raid and explosive damage information for the video game Rust.
 
