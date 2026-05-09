@@ -10,7 +10,7 @@ Detailed SEO case study explaining:
 - growth timeline
 - rankings and organic visibility
 
-[Read the full case study](./CASE_STUDY.md)
+[Read the full case study (Spanish)](./CASE_STUDY.md)
 
 ---
 <br>
@@ -50,7 +50,7 @@ WikiRust focuses on clear and practical information for players who want quick a
 ## Preview
 
 <div align="center">
-  <img src="./images/WikiRust.jpg" alt="WikiRust preview">
+  <img src="./images/home.jpg" alt="WikiRust preview">
 </div>
 
 
